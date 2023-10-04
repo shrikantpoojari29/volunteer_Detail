@@ -1,9 +1,10 @@
-first - cd backend 
-second - npm run dev
-open new terminal
-cd frontend 
-npm run dev
+1. Backend
+      cd backend
+      npm run dev
+2. Frontend
+    Open a new terminal window
+       cd frontend
+       npm run dev
 
-
-
-http://localhost:5173/
+Access the Application
+Visit http://localhost:5173/ in your web browser
